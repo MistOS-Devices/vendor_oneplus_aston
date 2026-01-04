@@ -1336,6 +1336,7 @@ PRODUCT_PACKAGES += \
     vendor.oplus.hardware.sendextcamcmd-V2-ndk \
     libtfadsp_sb4_0_rx \
     libtfadsp_sb4_0_tx \
+    ConsumerIRApp \
     EuiccGoogle \
     vendor.qti.camera.aon-impl-1.3.xml \
     vendor.qti.camera.postproc-impl.xml \
